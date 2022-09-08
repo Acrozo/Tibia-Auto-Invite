@@ -6,7 +6,7 @@ LeaveMessages = {"Goodbye", "bye", "cya"}
 GamblingMessages = {"h", "l", "high", "low", "payout", "info", "balance"}
 
 
-CharacterName = "Sylluss"
+CharacterName = "Acrozo"
 MaxIdleTime = 35 -- seconds 
 SQMRange = 5 -- squares away
 
